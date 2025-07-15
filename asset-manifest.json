@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.27987c86.js",
-    "static/js/453.b0b46d57.chunk.js": "/static/js/453.b0b46d57.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.27987c86.js.map": "/static/js/main.27987c86.js.map",
-    "453.b0b46d57.chunk.js.map": "/static/js/453.b0b46d57.chunk.js.map"
+    "main.css": "/profit-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/profit-calculator/static/js/main.ad6e4aaf.js",
+    "static/js/453.b0b46d57.chunk.js": "/profit-calculator/static/js/453.b0b46d57.chunk.js",
+    "index.html": "/profit-calculator/index.html",
+    "main.e6c13ad2.css.map": "/profit-calculator/static/css/main.e6c13ad2.css.map",
+    "main.ad6e4aaf.js.map": "/profit-calculator/static/js/main.ad6e4aaf.js.map",
+    "453.b0b46d57.chunk.js.map": "/profit-calculator/static/js/453.b0b46d57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.27987c86.js"
+    "static/js/main.ad6e4aaf.js"
   ]
 }
