@@ -437,7 +437,7 @@ const App: React.FC = () => {
             <div style={styles.alert}>
               <Lock size={20} color="#f59e0b" />
               <p style={styles.alertText}>
-                Only Power Users can perform profit calculations. Your role ({currentUser.role}) has read-only access.
+                Only Power User can perform profit calculations. Your role ({currentUser.role}) has read-only access.
               </p>
             </div>
           )}
