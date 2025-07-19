@@ -512,7 +512,7 @@ const App: React.FC = () => {
                       : styles.profitNegative
                     : styles.profitPlaceholder)
                 }}>
-                  {profit !== null ? `  ${profit.toFixed(2)}€` : 'Profit will appear here'}
+                  {profit !== null ? `  €${profit.toFixed(2)}` : 'Profit will appear here'}
                 </span>
               </div>
             </div>
